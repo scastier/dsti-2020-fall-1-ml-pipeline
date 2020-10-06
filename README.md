@@ -1,7 +1,8 @@
-Workshop
+# Workshop dsti-2020-fall-1-ml-pipeline
 
 Basic folder structure example:
 
+```
 .
 ├── app_cleaner
 │   ├── Dockerfile
@@ -32,3 +33,4 @@ Basic folder structure example:
 │   ├── googleplaystore_user_reviews.csv
 │   └── license.txt
 └── README.md
+```
